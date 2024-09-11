@@ -1,0 +1,12 @@
+EJERCICIO-2 PROMPTS:
+    Necesito que actues como un profesional y experto en HTML5, css, bootstrap, pues requiero armar una pagina web. A continuacion te dire como quiero que sea la estructura con sus requerimentos que deberas cumplir a rajatabla:
+    -Usar etiquetas semanticas.
+    -Usar clases de bootstrap y si necesitaras algo de css dame el codigo para colocar en un archivo externo llamado "estilos.css"
+    -La pagina constará de un header, el cual tendra un color de fondo que lo distingue de los demas. Mas el titulo principal centrado. Contará también con un main el cual también tendrá su color de fondo distintivo. Y un footer, donde este ultimo tendra el texto "Derechos reservados Matias Prado - 2024 (mas el logo de copyright)" que tendrá que estar centrado y con un color de fondo distintivo igualmente
+
+
+    dentro de la etiqueta main utilizaste una etiqueta div, no quiero divs, solo quiero etiquetas semanticas
+
+EJERCICIO-3 PROMPTS:
+
+    
