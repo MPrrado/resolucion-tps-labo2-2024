@@ -7,6 +7,21 @@ EJERCICIO-2 PROMPTS:
 
     dentro de la etiqueta main utilizaste una etiqueta div, no quiero divs, solo quiero etiquetas semanticas
 
-EJERCICIO-3 PROMPTS:
+EJERCICIO-4 PROMPTS:
+
+    Necesito que actues como un profesional y experto en su totalidad en html5, css , javascript  y bootstrap.
+    Necesito hacer una pagina web la cual constará de las siguientes pautas y secciones:
+    -Solo debes utilizar etiquetas semanticas y respestando las normas de la w3
+    -Necesito que todos los estilos que se vayan a aplicar lo hagas con clases de bootstrap y si necesitas usar css propio generalo en un archivo aparte que se llame "estilo.css"
+    -La pagina constara de un header el cual tendra de manera centrada un logo
+    -Luego constará de una aside en el lado izquierdo donde estaran 6 imagenes una debajo de la otra espaciadas uniformemente una de otra
+    -Tambien tendrá un main a la derecha del aside el cual tendra dentro una tabla con un titulo y tres columnas donde cada una será, respectivamente, "juego", "cantidad", "recaudado". 
+    -Al final del main tendra tambien una seccion donde mostrare el total recaudado.
+    -Por ultimo la pagina tendrá un footer el cual contendrá el texto: "Derechos Reservados - Prado Matias Santiago - 2024 - (logo copyroght )"
+
+
+
+    Necesito que NO uses div, solo etiquetas semanticas. Ademas quiero que el header, el aside y el footer tengas colores de fondo distintos que los identifique. Dichos colores de fondo hazlos con bootstrap
+
 
     

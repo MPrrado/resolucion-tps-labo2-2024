@@ -2,6 +2,6 @@
         <p>Derechos reservados a Prado Matias Santiago - 2024 ©</p>
     </footer>
 
-    <script src="../js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 </body>
 </html>

@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
-    <header class="bg-primary text-white text-center py-3">
-        <h1>EJERCICIO 4</h1>
+    <header class="bg-primary text-center py-3">
+        <h1>HOT SALE STEAM</h1>
+        <figure class = "w-100">
+            <img src="img/logo_steam.jpg" alt="Logo" class="img-fluid w-25 rounded">
+        </figure>
     </header>
