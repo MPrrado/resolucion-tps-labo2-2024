@@ -1,0 +1,26 @@
+//PROMPT EJERCICIO3
+
+Necesito que actues como un experto en HTML5, css y bootstrap y realicemos una pagina web que cumpla con las normas de la w3 y cumpla ademas las siguientes condiciones:
+- usar solamente etiquetas semanticas, evitar el uso del div
+- Dar todo el estilo a la pagina mediante clases de bootstrap y si es necesario agregar otros estilos, crear otro archivo con todo el css ahi, evitar colocar los estilos en el index.html
+- La pagina consta de un header con un titulo centrado 
+- Un main con un section dentro, y dentro de este un formulario, el cual constara de un legend con el texto "Registro enfermeria". Un input del tipo number con su label correspondiente el cual tiene el texto "Horas Trabajadas". Un select con 2 opciones y su label correspondiente el cual tiene el texto "Turno". Las dos opciones son "mañana" y "nocturo".
+- 7 inputs del tipo checkbox donde cada uno tendra su label correspondiente, cada uno para un dia de la semana 
+- Por ultimo un input del tipo submit, centrado en el fieldset del form.
+- El form tiene que tener todas las clases necesarias de bootstrap para darle un estilo elegante
+- Por ultimo la pagina consta de un footer con texto centrado "derechos reservados - Prado Matias - 2024 (logo copyright)"
+- Cada seccion de la pagina debe tener un color de fondo distinto
+
+reemplaza los div dentro del formulario por sections
+
+
+bien ahora haremos otra pagina la cual se llamara procesa.html donde tendra la misma estructura de header y footer. Pero en el main tendra un section donde habra una tabla la cual tendra que  un thead con 2 columnas cada una con un th con el texto "dia" y "honorario". A la tabla darle estilos mediante las clases de bootstrap y si es necesario agregar codigo css
+
+//PROMPT EJERCICIO4
+
+Actuando de la misma manera en la que lo estas haciendo necesitamos ahora crear otra pagina web, la cual contará con la misma estructura de header y footer que la anterior pero ahora tendra los siguientes cambios:
+- Un main, con un section dentro y dentro de este un form con un input del tipo number con su label con el texto "Deposito incial". Ademas tendra tambien 5 inputs del tipo radio con sus labels con el siguiente texto "30 dias", "45 dias", "60 dias", "90 dias" respectivamente. Estos ultimos tienen que lucir como un switch, realiza esto utilizando las clases necesarias de bootstrap.
+- Por ultimo el formulario tendra un boton del tipo submit.
+
+//ejercicio5    
+

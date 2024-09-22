@@ -1,0 +1,25 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+}
+
+header {
+    background-color: #007bff;
+}
+
+main {
+    background-color: #f8f9fa;
+}
+
+section {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #6c757d;
+    margin-top: auto;
+}
+
